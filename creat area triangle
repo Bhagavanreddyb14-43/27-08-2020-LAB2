@@ -1,0 +1,12 @@
+b = int(input())
+h = int(input())
+area = ( b * h) / 2.
+print("Area of Right Angle Triangle is :");
+print(area);
+
+INPUT:5
+4
+
+OUTPUT:
+Area of Right Angle Triangle is :
+10.0
